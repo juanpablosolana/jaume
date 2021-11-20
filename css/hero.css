@@ -1,0 +1,19 @@
+.hero{
+  border: 1px solid red;
+}
+.hero-image{
+  text-align: center;
+}
+
+.hero-image img{
+  border-radius: 20px;
+}
+
+.hero h1{
+font:var(--headline3)
+}
+
+.hero h1 :first-child{
+  font:var(--headline5);
+  display:block;
+}
